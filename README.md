@@ -1,2 +1,3 @@
 # Machine Learning for Social Science
-Homework in my machine learning for social science class at Columbia University
+Some exercise regarding machine learning for social science purpose.
+Some of it were my homework in machine learning class at Columbia University.
